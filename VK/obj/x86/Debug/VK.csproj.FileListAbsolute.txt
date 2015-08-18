@@ -1,0 +1,15 @@
+C:\Users\Bob Marley\Desktop\58f45f40-ae9d-49ad-b398-fe1878f797d4\VK\bin\Debug\VK.exe.config
+C:\Users\Bob Marley\Desktop\58f45f40-ae9d-49ad-b398-fe1878f797d4\VK\bin\Debug\VK.exe
+C:\Users\Bob Marley\Desktop\58f45f40-ae9d-49ad-b398-fe1878f797d4\VK\bin\Debug\VK.pdb
+C:\Users\Bob Marley\Desktop\58f45f40-ae9d-49ad-b398-fe1878f797d4\VK\obj\x86\Debug\VK.frmMain.resources
+C:\Users\Bob Marley\Desktop\58f45f40-ae9d-49ad-b398-fe1878f797d4\VK\obj\x86\Debug\VK.frmProgress.resources
+C:\Users\Bob Marley\Desktop\58f45f40-ae9d-49ad-b398-fe1878f797d4\VK\obj\x86\Debug\VK.frmSignin4RealGuys.resources
+C:\Users\Bob Marley\Desktop\58f45f40-ae9d-49ad-b398-fe1878f797d4\VK\obj\x86\Debug\VK.frmSigninSafe.resources
+C:\Users\Bob Marley\Desktop\58f45f40-ae9d-49ad-b398-fe1878f797d4\VK\obj\x86\Debug\VK.frmVkontakte.resources
+C:\Users\Bob Marley\Desktop\58f45f40-ae9d-49ad-b398-fe1878f797d4\VK\obj\x86\Debug\VK.ProfileContainer.resources
+C:\Users\Bob Marley\Desktop\58f45f40-ae9d-49ad-b398-fe1878f797d4\VK\obj\x86\Debug\VK.ProfileViewer.resources
+C:\Users\Bob Marley\Desktop\58f45f40-ae9d-49ad-b398-fe1878f797d4\VK\obj\x86\Debug\VK.Properties.Resources.resources
+C:\Users\Bob Marley\Desktop\58f45f40-ae9d-49ad-b398-fe1878f797d4\VK\obj\x86\Debug\VK.frmVkontakteContainer.resources
+C:\Users\Bob Marley\Desktop\58f45f40-ae9d-49ad-b398-fe1878f797d4\VK\obj\x86\Debug\VK.csproj.GenerateResource.Cache
+C:\Users\Bob Marley\Desktop\58f45f40-ae9d-49ad-b398-fe1878f797d4\VK\obj\x86\Debug\VK.exe
+C:\Users\Bob Marley\Desktop\58f45f40-ae9d-49ad-b398-fe1878f797d4\VK\obj\x86\Debug\VK.pdb
